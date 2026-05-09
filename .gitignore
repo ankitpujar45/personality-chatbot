@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.env/
+
+# Datasets & results
+data/
+results/
+*.csv
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local run helpers
+.run/

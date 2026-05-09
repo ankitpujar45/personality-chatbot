@@ -1,0 +1,23 @@
+# Backend API
+fastapi
+uvicorn
+pydantic
+ollama
+
+# Core data / ML
+pandas
+numpy
+scikit-learn
+joblib
+torch
+transformers
+tqdm
+
+# Visualization / notebooks
+matplotlib
+seaborn
+notebook
+jupyter
+
+# Optional UI / experiments
+gradio

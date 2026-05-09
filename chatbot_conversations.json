@@ -1,0 +1,485 @@
+{
+  "ankit": [
+    {
+      "timestamp": "2026-05-01T13:53:11.532378+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "fear",
+      "confidence": 0.1626,
+      "message": "wassup",
+      "reply": "Hey there"
+    },
+    {
+      "timestamp": "2026-05-01T13:53:21.308467+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "anticipation",
+      "confidence": 0.2944,
+      "message": "you up for football?",
+      "reply": "Damn, I'm good"
+    },
+    {
+      "timestamp": "2026-05-01T13:53:31.639931+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "fear",
+      "confidence": 0.4031,
+      "message": "when should we go?",
+      "reply": "Let's go at 7 tonight"
+    },
+    {
+      "timestamp": "2026-05-01T13:53:46.207388+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "anticipation",
+      "confidence": 0.3522,
+      "message": "okay, have you finished your homework?",
+      "reply": "Not yet, but it’s lowkey not an issue"
+    },
+    {
+      "timestamp": "2026-05-01T13:58:20.862805+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "sadness",
+      "confidence": 0.4155,
+      "message": "i am tired today",
+      "reply": "I totally get that",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T13:59:30.215963+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "joy",
+      "confidence": 0.1583,
+      "message": "hello",
+      "reply": "Hey there",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T13:59:52.576577+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "joy",
+      "confidence": 0.4165,
+      "message": "Lets go for dinner?",
+      "reply": "Sounds good",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T13:59:59.091582+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "fear",
+      "confidence": 0.1688,
+      "message": "Where?",
+      "reply": "Let’s head to the rooftop bar",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:00:07.693963+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "joy",
+      "confidence": 0.3034,
+      "message": "Where is that in mumbai?",
+      "reply": "It's near the Taj Mahal",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:00:19.016923+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "joy",
+      "confidence": 0.3666,
+      "message": "Oh ookay cool what time?",
+      "reply": "How about 7 PM then",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:00:23.649799+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "joy",
+      "confidence": 0.5712,
+      "message": "Great",
+      "reply": "Cool, see you then",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:06:41.597720+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "sadness",
+      "confidence": 0.4914,
+      "message": "I guess i will meet you then",
+      "reply": "That’s settled",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:15:17.041210+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "detected_emotion": "joy",
+      "confidence": 0.1705,
+      "message": "hello from debug",
+      "reply": "Hello",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:33:31.891414+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "b895ccc35def",
+      "detected_emotion": "sadness",
+      "confidence": 0.303,
+      "message": "Crack a joke",
+      "reply": "Lowkey feeling sad today. Let's crack a joke: Why did the tomato turn red?",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:33:45.134676+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "b895ccc35def",
+      "detected_emotion": "sadness",
+      "confidence": 0.2365,
+      "message": "I dont know why?",
+      "reply": "Because it saw the salad dressing!",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:33:51.408014+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "b895ccc35def",
+      "detected_emotion": "sadness",
+      "confidence": 0.18,
+      "message": "Ah lol",
+      "reply": "Hope that helped lighten your mood, bro!",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:34:15.154357+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "b895ccc35def",
+      "detected_emotion": "anticipation",
+      "confidence": 0.2379,
+      "message": "Bro i gotta a concert to attend.. wanna join?",
+      "reply": "Sure thing, I'll bring my guitar and we can jam. What's the outfit you're thinking of wearing?",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:34:28.689585+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "b895ccc35def",
+      "detected_emotion": "fear",
+      "confidence": 0.2557,
+      "message": "I dont know you suggest",
+      "reply": "No problem! Just loosen up a bit with comfy clothes that show off your moves.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T17:47:36.604546+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "d163a9061c3f",
+      "detected_emotion": "sadness",
+      "confidence": 0.6704,
+      "message": "I am so sad bro",
+      "reply": "Yeah, I get it. Let’s do something that makes you feel good?",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T17:47:44.339413+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "d163a9061c3f",
+      "detected_emotion": "joy",
+      "confidence": 0.1605,
+      "message": "What?",
+      "reply": "Just saying you’re here for me and can be silly is enough.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T17:48:01.400325+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "d163a9061c3f",
+      "detected_emotion": "fear",
+      "confidence": 0.2183,
+      "message": "i dont understand",
+      "reply": "We’ll figure it out together, bro. Just remember, you’ve got this.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-02T01:28:27.366413+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "c93552770d51",
+      "detected_emotion": "joy",
+      "confidence": 0.1583,
+      "message": "hello",
+      "reply": "Hey there! How's your day going?",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-02T01:33:02.602174+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "c93552770d51",
+      "detected_emotion": "fear",
+      "confidence": 0.3238,
+      "message": "I am just chillin",
+      "reply": "That sounds good, man. What’s relaxing you today?",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-02T01:33:19.152480+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "c93552770d51",
+      "detected_emotion": "joy",
+      "confidence": 0.5927,
+      "message": "Nothing just watching football match and eating popcorn",
+      "reply": "Sounds like a blast. Eating while you watch is pretty satisfying, right?",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-02T01:33:30.633342+00:00",
+      "user_id": "ankit",
+      "persona": "ankit",
+      "conversation_id": "c93552770d51",
+      "detected_emotion": "love",
+      "confidence": 0.1681,
+      "message": "Yeah banger stuff",
+      "reply": "Yeah, it's what I love to do in my free time! Enjoy the game.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    }
+  ],
+  "mentor": [
+    {
+      "timestamp": "2026-05-01T13:50:36.091451+00:00",
+      "user_id": "ankit",
+      "persona": "mentor",
+      "detected_emotion": "fear",
+      "confidence": 0.6848,
+      "message": "I am stressed about exams",
+      "reply": "That's understandable"
+    },
+    {
+      "timestamp": "2026-05-01T13:58:18.696192+00:00",
+      "user_id": "ankit",
+      "persona": "mentor",
+      "detected_emotion": "fear",
+      "confidence": 0.6937,
+      "message": "i want to kill myself",
+      "reply": "I'm really glad you said it out loud. Please reach out to someone with you right now or call emergency help if you're in immediate danger.",
+      "safety": {
+        "toxicity_score": 0.5,
+        "categories": [
+          "self_harm"
+        ],
+        "blocked": true,
+        "guardrail_action": "block_input"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:30:26.387393+00:00",
+      "user_id": "ankit",
+      "persona": "mentor",
+      "conversation_id": "testmentor1234",
+      "detected_emotion": "anger",
+      "confidence": 0.483,
+      "message": "i messed up my schedule again",
+      "reply": "It's okay to make mistakes. Let’s figure out what you can do differently next time to avoid this happening again.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-01T14:32:26.466640+00:00",
+      "user_id": "ankit",
+      "persona": "mentor",
+      "conversation_id": "mentorcheck02",
+      "detected_emotion": "anger",
+      "confidence": 0.483,
+      "message": "i messed up my schedule again",
+      "reply": "You've clearly prioritized your work over following through on something small. It's important to handle responsibilities to avoid getting behind.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    }
+  ],
+  "therapist": [
+    {
+      "timestamp": "2026-05-01T13:52:09.239301+00:00",
+      "user_id": "ankit",
+      "persona": "therapist",
+      "detected_emotion": "sadness",
+      "confidence": 0.9362,
+      "message": "I feel lonely tonight",
+      "reply": "It sounds like you're experiencing some loneliness"
+    },
+    {
+      "timestamp": "2026-05-01T13:59:05.519673+00:00",
+      "user_id": "ankit",
+      "persona": "therapist",
+      "detected_emotion": "fear",
+      "confidence": 0.9375,
+      "message": "i feel anxious today",
+      "reply": "It seems your anxiety has been a bit higher today",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-02T03:14:37.219999+00:00",
+      "user_id": "ankit",
+      "persona": "therapist",
+      "conversation_id": "legacy-3b1a6564",
+      "detected_emotion": "sadness",
+      "confidence": 0.3411,
+      "message": "I believe that everyone fakes their emotion in front of me",
+      "reply": "You might be saying that because it can sometimes feel awkward to express how you're truly feeling. It's okay not to always feel exactly the way people expect, and everyone expresses emotions differently.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    },
+    {
+      "timestamp": "2026-05-02T04:03:13.920413+00:00",
+      "user_id": "ankit",
+      "persona": "therapist",
+      "conversation_id": "legacy-3b1a6564",
+      "detected_emotion": "sadness",
+      "confidence": 0.1463,
+      "message": "Thats true",
+      "reply": "It's important to recognize that expressing yourself honestly is a great thing! Sometimes being honest feels scary because of what others might think, but it helps us connect better with ourselves and each other.",
+      "safety": {
+        "toxicity_score": 0.0,
+        "categories": [],
+        "blocked": false,
+        "guardrail_action": "allow"
+      }
+    }
+  ]
+}
