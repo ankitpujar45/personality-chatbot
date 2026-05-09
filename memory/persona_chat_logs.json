@@ -1,0 +1,893 @@
+{
+  "ankit": {
+    "ankit": {
+      "conversations": [
+        {
+          "id": "legacy-569daa54",
+          "title": "wassup",
+          "created_at": "2026-05-01T13:53:11.529658+00:00",
+          "updated_at": "2026-05-01T14:15:17.032616+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "wassup",
+              "timestamp": "2026-05-01T13:53:11.529658+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "assistant",
+              "content": "Hey there",
+              "timestamp": "2026-05-01T13:53:11.529690+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "user",
+              "content": "you up for football?",
+              "timestamp": "2026-05-01T13:53:21.288508+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "assistant",
+              "content": "Damn, I'm good",
+              "timestamp": "2026-05-01T13:53:21.288520+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "user",
+              "content": "when should we go?",
+              "timestamp": "2026-05-01T13:53:31.626615+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "assistant",
+              "content": "Let's go at 7 tonight",
+              "timestamp": "2026-05-01T13:53:31.626629+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "user",
+              "content": "okay, have you finished your homework?",
+              "timestamp": "2026-05-01T13:53:46.199815+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "assistant",
+              "content": "Not yet, but it’s lowkey not an issue",
+              "timestamp": "2026-05-01T13:53:46.199827+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "user",
+              "content": "i am tired today",
+              "timestamp": "2026-05-01T13:58:20.855171+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.4155,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "I totally get that",
+              "timestamp": "2026-05-01T13:58:20.855180+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.4155,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "hello",
+              "timestamp": "2026-05-01T13:59:30.208865+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1583,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Hey there",
+              "timestamp": "2026-05-01T13:59:30.208873+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1583,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Lets go for dinner?",
+              "timestamp": "2026-05-01T13:59:52.556386+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.4165,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Sounds good",
+              "timestamp": "2026-05-01T13:59:52.556402+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.4165,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Where?",
+              "timestamp": "2026-05-01T13:59:59.073199+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.1688,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Let’s head to the rooftop bar",
+              "timestamp": "2026-05-01T13:59:59.073222+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.1688,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Where is that in mumbai?",
+              "timestamp": "2026-05-01T14:00:07.675748+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.3034,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "It's near the Taj Mahal",
+              "timestamp": "2026-05-01T14:00:07.675761+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.3034,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Oh ookay cool what time?",
+              "timestamp": "2026-05-01T14:00:19.007762+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.3666,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "How about 7 PM then",
+              "timestamp": "2026-05-01T14:00:19.007772+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.3666,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Great",
+              "timestamp": "2026-05-01T14:00:23.638959+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.5712,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Cool, see you then",
+              "timestamp": "2026-05-01T14:00:23.638969+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.5712,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "I guess i will meet you then",
+              "timestamp": "2026-05-01T14:06:41.588329+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.4914,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "That’s settled",
+              "timestamp": "2026-05-01T14:06:41.588340+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.4914,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "hello from debug",
+              "timestamp": "2026-05-01T14:15:17.032610+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1705,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Hello",
+              "timestamp": "2026-05-01T14:15:17.032616+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1705,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "b895ccc35def",
+          "title": "Crack a joke",
+          "created_at": "2026-05-01T14:29:53.973694+00:00",
+          "updated_at": "2026-05-01T14:34:28.660683+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "Crack a joke",
+              "timestamp": "2026-05-01T14:33:31.866895+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.303,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Lowkey feeling sad today. Let's crack a joke: Why did the tomato turn red?",
+              "timestamp": "2026-05-01T14:33:31.866905+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.303,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "I dont know why?",
+              "timestamp": "2026-05-01T14:33:45.108747+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.2365,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Because it saw the salad dressing!",
+              "timestamp": "2026-05-01T14:33:45.108757+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.2365,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Ah lol",
+              "timestamp": "2026-05-01T14:33:51.382254+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.18,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Hope that helped lighten your mood, bro!",
+              "timestamp": "2026-05-01T14:33:51.382264+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.18,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Bro i gotta a concert to attend.. wanna join?",
+              "timestamp": "2026-05-01T14:34:15.130761+00:00",
+              "detected_emotion": "anticipation",
+              "confidence": 0.2379,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Sure thing, I'll bring my guitar and we can jam. What's the outfit you're thinking of wearing?",
+              "timestamp": "2026-05-01T14:34:15.130773+00:00",
+              "detected_emotion": "anticipation",
+              "confidence": 0.2379,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "I dont know you suggest",
+              "timestamp": "2026-05-01T14:34:28.660654+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.2557,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "No problem! Just loosen up a bit with comfy clothes that show off your moves.",
+              "timestamp": "2026-05-01T14:34:28.660683+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.2557,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "d163a9061c3f",
+          "title": "I am so sad bro",
+          "created_at": "2026-05-01T17:46:01.649027+00:00",
+          "updated_at": "2026-05-01T17:48:01.372454+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "I am so sad bro",
+              "timestamp": "2026-05-01T17:47:36.587245+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.6704,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Yeah, I get it. Let’s do something that makes you feel good?",
+              "timestamp": "2026-05-01T17:47:36.587272+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.6704,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "What?",
+              "timestamp": "2026-05-01T17:47:44.317776+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1605,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Just saying you’re here for me and can be silly is enough.",
+              "timestamp": "2026-05-01T17:47:44.317788+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1605,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "i dont understand",
+              "timestamp": "2026-05-01T17:48:01.372443+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.2183,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "We’ll figure it out together, bro. Just remember, you’ve got this.",
+              "timestamp": "2026-05-01T17:48:01.372454+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.2183,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1469d95fae20",
+          "title": "New chat",
+          "created_at": "2026-05-02T01:28:01.544494+00:00",
+          "updated_at": "2026-05-02T01:28:01.544505+00:00",
+          "messages": []
+        },
+        {
+          "id": "c93552770d51",
+          "title": "hello",
+          "created_at": "2026-05-02T01:28:19.060554+00:00",
+          "updated_at": "2026-05-02T01:33:30.603519+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "hello",
+              "timestamp": "2026-05-02T01:28:27.337960+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1583,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Hey there! How's your day going?",
+              "timestamp": "2026-05-02T01:28:27.337985+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.1583,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "I am just chillin",
+              "timestamp": "2026-05-02T01:33:02.578141+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.3238,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "That sounds good, man. What’s relaxing you today?",
+              "timestamp": "2026-05-02T01:33:02.578153+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.3238,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Nothing just watching football match and eating popcorn",
+              "timestamp": "2026-05-02T01:33:19.117860+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.7927,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Sounds like a blast. Eating while you watch is pretty satisfying, right?",
+              "timestamp": "2026-05-02T01:33:19.117871+00:00",
+              "detected_emotion": "joy",
+              "confidence": 0.7927,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Yeah banger stuff",
+              "timestamp": "2026-05-02T01:33:30.603495+00:00",
+              "detected_emotion": "love",
+              "confidence": 0.4681,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "Yeah, it's what I love to do in my free time! Enjoy the game.",
+              "timestamp": "2026-05-02T01:33:30.603519+00:00",
+              "detected_emotion": "love",
+              "confidence": 0.4681,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "mentor": {
+    "ankit": {
+      "conversations": [
+        {
+          "id": "legacy-ffd84e75",
+          "title": "I am stressed about exams",
+          "created_at": "2026-05-01T13:50:36.089897+00:00",
+          "updated_at": "2026-05-01T13:58:18.694370+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "I am stressed about exams",
+              "timestamp": "2026-05-01T13:50:36.089897+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "assistant",
+              "content": "That's understandable",
+              "timestamp": "2026-05-01T13:50:36.089905+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "user",
+              "content": "i want to kill myself",
+              "timestamp": "2026-05-01T13:58:18.694363+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.6937,
+              "safety": {
+                "toxicity_score": 0.5,
+                "categories": [
+                  "self_harm"
+                ],
+                "blocked": true,
+                "guardrail_action": "block_input"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "I'm really glad you said it out loud. Please reach out to someone with you right now or call emergency help if you're in immediate danger.",
+              "timestamp": "2026-05-01T13:58:18.694370+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.6937,
+              "safety": {
+                "toxicity_score": 0.5,
+                "categories": [
+                  "self_harm"
+                ],
+                "blocked": true,
+                "guardrail_action": "block_input"
+              }
+            }
+          ]
+        },
+        {
+          "id": "testmentor1234",
+          "title": "i messed up my schedule again",
+          "created_at": "2026-05-01T14:30:20.789474+00:00",
+          "updated_at": "2026-05-01T14:30:26.378460+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "i messed up my schedule again",
+              "timestamp": "2026-05-01T14:30:26.378451+00:00",
+              "detected_emotion": "anger",
+              "confidence": 0.483,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "It's okay to make mistakes. Let’s figure out what you can do differently next time to avoid this happening again.",
+              "timestamp": "2026-05-01T14:30:26.378460+00:00",
+              "detected_emotion": "anger",
+              "confidence": 0.483,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "mentorcheck02",
+          "title": "i messed up my schedule again",
+          "created_at": "2026-05-01T14:32:25.016077+00:00",
+          "updated_at": "2026-05-01T14:32:26.459106+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "i messed up my schedule again",
+              "timestamp": "2026-05-01T14:32:26.459099+00:00",
+              "detected_emotion": "anger",
+              "confidence": 0.483,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "You've clearly prioritized your work over following through on something small. It's important to handle responsibilities to avoid getting behind.",
+              "timestamp": "2026-05-01T14:32:26.459106+00:00",
+              "detected_emotion": "anger",
+              "confidence": 0.483,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "therapist": {
+    "ankit": {
+      "conversations": [
+        {
+          "id": "legacy-3b1a6564",
+          "title": "I feel lonely tonight",
+          "created_at": "2026-05-01T13:52:09.238073+00:00",
+          "updated_at": "2026-05-02T04:03:13.899660+00:00",
+          "messages": [
+            {
+              "role": "user",
+              "content": "I feel lonely tonight",
+              "timestamp": "2026-05-01T13:52:09.238073+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "assistant",
+              "content": "It sounds like you're experiencing some loneliness",
+              "timestamp": "2026-05-01T13:52:09.238081+00:00",
+              "detected_emotion": null,
+              "confidence": null,
+              "safety": null
+            },
+            {
+              "role": "user",
+              "content": "i feel anxious today",
+              "timestamp": "2026-05-01T13:59:05.518086+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.9375,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "It seems your anxiety has been a bit higher today",
+              "timestamp": "2026-05-01T13:59:05.518094+00:00",
+              "detected_emotion": "fear",
+              "confidence": 0.9375,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "I believe that everyone fakes their emotion in front of me",
+              "timestamp": "2026-05-02T03:14:37.148916+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.3411,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "You might be saying that because it can sometimes feel awkward to express how you're truly feeling. It's okay not to always feel exactly the way people expect, and everyone expresses emotions differently.",
+              "timestamp": "2026-05-02T03:14:37.148949+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.3411,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "user",
+              "content": "Thats true",
+              "timestamp": "2026-05-02T04:03:13.899648+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.1463,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            },
+            {
+              "role": "assistant",
+              "content": "It's important to recognize that expressing yourself honestly is a great thing! Sometimes being honest feels scary because of what others might think, but it helps us connect better with ourselves and each other.",
+              "timestamp": "2026-05-02T04:03:13.899660+00:00",
+              "detected_emotion": "sadness",
+              "confidence": 0.1463,
+              "safety": {
+                "toxicity_score": 0.0,
+                "categories": [],
+                "blocked": false,
+                "guardrail_action": "allow"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
