@@ -1,0 +1,121 @@
+[
+  {
+    "timestamp": "2025-12-19T11:26:59.496949+00:00",
+    "text": "I feel kinda down today. Anything to cheer me up?",
+    "predicted_emotion": "sadness",
+    "confidence": 0.8439021110534668,
+    "latency_s": 15.947
+  },
+  {
+    "timestamp": "2025-12-19T11:30:09.588198+00:00",
+    "text": "Nothing went right this week, it’s frustrating.",
+    "predicted_emotion": "anger",
+    "confidence": 0.5655307173728943,
+    "latency_s": 10.612
+  },
+  {
+    "timestamp": "2025-12-19T11:32:11.056240+00:00",
+    "text": "I feel kinda lonely even when people are around.",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9385839104652405,
+    "latency_s": 11.85
+  },
+  {
+    "timestamp": "2025-12-19T11:32:35.137278+00:00",
+    "text": "I messed up something important and can’t stop thinking about it.",
+    "predicted_emotion": "sadness",
+    "confidence": 0.42596668004989624,
+    "latency_s": 14.035
+  },
+  {
+    "timestamp": "2025-12-19T11:33:07.491408+00:00",
+    "text": "What should i do?",
+    "predicted_emotion": "pessimism",
+    "confidence": 0.19974875450134277,
+    "latency_s": 14.889
+  },
+  {
+    "timestamp": "2025-12-19T11:39:12.092608+00:00",
+    "text": "I’m annoyed because I worked hard but got poor results.",
+    "predicted_emotion": "anger",
+    "confidence": 0.6816641688346863,
+    "latency_s": 15.167
+  },
+  {
+    "timestamp": "2025-12-19T11:48:24.031202+00:00",
+    "text": "I feel really low today and don’t feel like doing anything",
+    "predicted_emotion": "sadness",
+    "confidence": 0.7526304721832275,
+    "latency_s": 6.214
+  },
+  {
+    "timestamp": "2025-12-19T11:58:16.559924+00:00",
+    "text": "I am tired, anything fun in your mind?",
+    "predicted_emotion": "sadness",
+    "confidence": 0.4164975881576538,
+    "latency_s": 22.942
+  },
+  {
+    "timestamp": "2025-12-19T11:58:37.736819+00:00",
+    "text": "well what should i do?",
+    "predicted_emotion": "sadness",
+    "confidence": 0.4802093833684921,
+    "latency_s": 10.346
+  },
+  {
+    "timestamp": "2025-12-22T01:58:37.367384+00:00",
+    "text": "I feel kinda down today. Anything to cheer me up?",
+    "predicted_emotion": "sadness",
+    "confidence": 0.8439021110534668,
+    "latency_s": 15.225
+  },
+  {
+    "timestamp": "2025-12-22T14:13:16.240724+00:00",
+    "text": "I feel demotivated and tired of studying.",
+    "predicted_emotion": "sadness",
+    "confidence": 0.8789577126502991,
+    "latency_s": 11.245
+  },
+  {
+    "timestamp": "2025-12-22T14:13:34.383598+00:00",
+    "text": "It feels like no matter what I do, it’s not enough.",
+    "predicted_emotion": "sadness",
+    "confidence": 0.869731342792511,
+    "latency_s": 4.69
+  },
+  {
+    "timestamp": "2025-12-22T14:14:30.796218+00:00",
+    "text": "It actually makes me feel a bit better.",
+    "predicted_emotion": "pessimism",
+    "confidence": 0.8155820310115814,
+    "latency_s": 4.241
+  },
+  {
+    "timestamp": "2025-12-29T03:30:42.841876+00:00",
+    "text": "I’m irritated by everything today right now",
+    "predicted_emotion": "anger",
+    "confidence": 0.5852702260017395,
+    "latency_s": 10.486
+  },
+  {
+    "timestamp": "2025-12-30T14:19:43.449191+00:00",
+    "text": "I feel kinda lonely even when people are around",
+    "predicted_emotion": "sadness",
+    "confidence": 0.9381810426712036,
+    "latency_s": 26.474
+  },
+  {
+    "timestamp": "2026-03-17T12:57:24.074988+00:00",
+    "text": "Hi",
+    "predicted_emotion": "anger",
+    "confidence": 0.14539062976837158,
+    "latency_s": 5.114
+  },
+  {
+    "timestamp": "2026-03-17T12:57:57.831451+00:00",
+    "text": "I am so tired of studying. I want to talk to someone",
+    "predicted_emotion": "sadness",
+    "confidence": 0.6655222177505493,
+    "latency_s": 11.624
+  }
+]

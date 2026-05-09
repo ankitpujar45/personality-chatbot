@@ -1,0 +1,501 @@
+id,text,ground_truth,prediction, confidence
+1,I’m terrified of failing at the moment,fear
+2,I feel rage building up at the moment,anger
+3,I feel anxious and scared today,fear
+4,I think things will fail lately,pessimism
+5,I feel hurt and disappointed,sadness
+6,I feel angry about what happened these days,anger
+7,I feel delighted right now,joy
+8,I’m grateful for this support lately,love
+9,I feel understood recently,love
+10,I’ve lost hope about things these days,pessimism
+11,I feel emotionally supported,love
+12,I’m angry at everything these days,anger
+13,I feel discouraged about everything right now,pessimism
+14,I feel satisfied and happy,joy
+15,I can’t control my anger lately,anger
+16,,
+17,I feel hopeless lately,pessimism
+18,I feel upbeat and happy,joy
+19,I feel scared and tense recently,fear
+20,I feel great today right now,joy
+21,I feel everything is pointless right now,pessimism
+22,I feel cheerful today these days,joy
+23,I feel trust and affection at the moment,love
+24,I’m grateful for this support at the moment,love
+25,I feel cheerful today at the moment,joy
+26,I feel upbeat and happy recently,joy
+27,I feel overwhelmed and sad lately,sadness
+28,I feel everything is pointless,pessimism
+29,I feel emotionally close these days,love
+30,I feel negative about everything these days,pessimism
+31,Nothing really matters anymore these days,pessimism
+32,Nothing really matters anymore,pessimism
+33,I feel close and valued lately,love
+34,I finally finished my project today,joy
+35,Life feels heavy right now these days,sadness
+36,I feel irritated constantly right now,anger
+37,I feel broken inside,sadness
+38,I’m terrified of failing at the moment,fear
+39,This makes me really angry these days,anger
+40,I feel sad for no reason today,sadness
+41,I feel really happy today,joy
+42,I feel angry about what happened recently,anger
+43,I feel pessimistic about life today,pessimism
+44,I don’t feel optimistic anymore lately,pessimism
+45,I feel cared for recently,love
+46,I feel a lot of affection today,love
+47,Today feels amazing,joy
+48,today,
+49,I feel loved right now,love
+50,I’m enjoying this moment at the moment,joy
+51,I feel supported emotionally lately,love
+52,Everything feels pointless at the moment,pessimism
+53,I feel comforted recently,love
+54,I feel frustrated and angry at the moment,anger
+55,I feel tired and low,sadness
+56,I feel everything is pointless,pessimism
+57,I feel nervous inside at the moment,fear
+58,I’m irritated by everything today at the moment,anger
+59,I feel panic thinking about it these days,fear
+60,I feel joyful and relaxed these days,joy
+61,I’m terrified of failing,fear
+62,I finally finished my project,joy
+63,I’m scared about my exams today,fear
+64,I feel delighted right now today,joy
+65,I feel angry about what happened these days,anger
+66,I feel irritated and upset recently,anger
+67,I feel rage within me today,anger
+68,I’m scared about my exams recently,fear
+69,I feel annoyed all the time at the moment,anger
+70,at the moment,
+71,I’m irritated by everything today,anger
+72,I’m grateful for this support right now,love
+73,I feel joyful and relaxed recently,joy
+74,I feel satisfied and happy recently,joy
+75,I’m terrified of failing at the moment,fear
+76,Nothing feels right anymore right now,sadness
+77,Things are going great for me today,joy
+78,I feel bonded emotionally today,love
+79,This makes me really angry these days,anger
+80,I feel upbeat and happy these days,joy
+81,I feel drained emotionally right now,sadness
+82,I feel panic thinking about it these days,fear
+83,I feel drained emotionally recently,sadness
+84,It feels useless to try right now,pessimism
+85,I’m enjoying this moment these days,joy
+86,I’m proud of myself lately,joy
+87,I feel warmth and trust these days,love
+88,I feel angry about what happened today,anger
+89,I’m scared of what will happen recently,fear
+90,It feels useless to try right now,pessimism
+91,I feel frustrated and angry lately,anger
+92,I feel weak and low lately,sadness
+93,I feel anxious constantly at the moment,fear
+94,today,
+95,I feel thankful for you at the moment,love
+96,I feel emotionally supported recently,love
+97,I’ve lost hope about things at the moment,pessimism
+98,I feel nervous about tomorrow recently,fear
+99,Life feels heavy right now,sadness
+100,I’m fed up and angry recently,anger
+101,I feel rage building up these days,anger
+102,Nothing feels right anymore recently,sadness
+103,I feel emotionally numb right now,sadness
+104,I value this connection these days,love
+105,I value this connection at the moment,love
+106,I feel stuck in negativity these days,pessimism
+107,I feel irritated and upset,anger
+108,I feel really low today lately,sadness
+109,I feel positive today recently,joy
+110,I’m fed up and angry these days,anger
+111,I feel accomplished right now,joy
+112,I feel cared for these days,love
+113,I feel discouraged about everything right now,pessimism
+114,I’m terrified of failing recently,fear
+115,I feel emotionally drained these days,sadness
+116,I feel upbeat and happy recently,joy
+117,I feel nervous about tomorrow at the moment,fear
+118,I feel weak and low at the moment,sadness
+119,I feel anxious about the future today,fear
+120,I don’t believe things will improve,pessimism
+121,I’m fed up and angry right now,anger
+122,I feel cared for lately,love
+123,I feel rage within me right now,anger
+124,I’m scared of what will happen these days,fear
+125,I’m irritated by everything today right now,anger
+126,I feel a lot of affection recently,love
+127,I feel nothing will change at the moment,pessimism
+128,I’m feeling down today at the moment,sadness
+129,I feel supported emotionally these days,love
+130,I don’t see things getting better,pessimism
+131,I feel satisfied and happy recently,joy
+132,right now,
+133,I feel loved right now these days,love
+134,I feel cheerful today at the moment,joy
+135,I feel annoyed all the time these days,anger
+136,It feels useless to try,pessimism
+137,I feel close and valued recently,love
+138,It feels useless to try at the moment,pessimism
+139,I don’t see a positive future these days,pessimism
+140,I don’t expect good outcomes lately,pessimism
+141,I don’t expect good outcomes today,pessimism
+142,I’m feeling wonderful these days,joy
+143,I feel annoyed all the time these days,anger
+144,I feel overwhelmed and sad,sadness
+145,I feel rage within me,anger
+146,I’m annoyed beyond control these days,anger
+147,I’m afraid things might go wrong these days,fear
+148,I feel anxious constantly these days,fear
+149,I feel safe and cared for recently,love
+150,I feel a lot of affection right now,love
+151,I feel broken inside lately,sadness
+152,I don’t see things getting better these days,pessimism
+153,I’m angry at everything right now,anger
+154,I’m irritated by everything today right now,anger
+155,I’m scared about my exams recently,fear
+156,I’m enjoying this moment at the moment,joy
+157,I feel angry and tense,anger
+158,I feel negative about everything right now,pessimism
+159,I’m irritated by everything today lately,anger
+160,It feels useless to try,pessimism
+161,I feel irritated and upset,anger
+162,I’m constantly worried recently,fear
+163,I feel warmth and trust lately,love
+164,I feel weak and low right now,sadness
+165,I feel nervous and worried right now,fear
+166,I feel trust and affection,love
+167,I really appreciate you at the moment,love
+168,I feel angry inside at the moment,anger
+169,I feel frustrated and angry today,anger
+170,I’m in a really good mood at the moment,joy
+171,I feel a lot of affection lately,love
+172,I feel upset and mad,anger
+173,I feel irritated constantly lately,anger
+174,I feel bonded emotionally these days,love
+175,I’m in a really good mood these days,joy
+176,Life feels heavy right now at the moment,sadness
+177,I think things will fail,pessimism
+178,I value this connection right now,love
+179,at the moment,
+180,I feel anxious constantly today,fear
+181,I’m really frustrated right now today,anger
+182,I feel irritated and upset these days,anger
+183,I feel empty inside,sadness
+184,I feel anxious and scared at the moment,fear
+185,I feel excited and joyful at the moment,joy
+186,I feel anxious about the future recently,fear
+187,I feel stuck in negativity today,pessimism
+188,I feel discouraged about everything lately,pessimism
+189,I’m feeling wonderful these days,joy
+190,I feel nothing will change recently,pessimism
+191,I feel overwhelmed and sad right now,sadness
+192,I don’t see meaning in trying lately,pessimism
+193,I feel positive today right now,joy
+194,I feel emotionally drained these days,sadness
+195,I feel appreciated today,love
+196,I feel everything is pointless lately,pessimism
+197,I’m proud of myself recently,joy
+198,This makes me really angry today,anger
+199,I feel irritated and upset lately,anger
+200,I’m grateful for this support these days,love
+201,I feel emotionally numb at the moment,sadness
+202,I feel stuck in a bad place today,pessimism
+203,I feel anxious and scared lately,fear
+204,I feel empty inside recently,sadness
+205,I feel bonded emotionally recently,love
+206,I feel appreciated lately,love
+207,I value this connection lately,love
+208,I feel accomplished,joy
+209,I feel lonely and sad today,sadness
+210,I feel loved right now at the moment,love
+211,I feel happy and content recently,joy
+212,I feel warmth inside recently,love
+213,I’m feeling wonderful lately,joy
+214,I’m afraid of making mistakes today,fear
+215,I feel panic thinking about it recently,fear
+216,I’m afraid things might go wrong,fear
+217,I feel drained emotionally these days,sadness
+218,I’m smiling today right now,joy
+219,I feel nervous inside lately,fear
+220,I feel anxious about the future,fear
+221,I feel panic rising at the moment,fear
+222,I don’t expect good outcomes recently,pessimism
+223,I don’t feel like doing anything right now,sadness
+224,I’m grateful for this support lately,love
+225,This makes me really angry right now,anger
+226,I’m scared of consequences recently,fear
+227,I feel understood lately,love
+228,I feel upbeat and happy,joy
+229,I feel nervous and worried today,fear
+230,It feels useless to try today,pessimism
+231,I feel nervous and worried at the moment,fear
+232,I feel satisfied and happy today,joy
+233,I don’t see a positive future right now,pessimism
+234,I feel panic thinking about it right now,fear
+235,I’m feeling down today right now,sadness
+236,I feel positive today,joy
+237,I feel nervous inside recently,fear
+238,I really appreciate you,love
+239,I feel nervous about tomorrow today,fear
+240,I think things will fail these days,pessimism
+241,I really appreciate you recently,love
+242,I feel cheerful today at the moment,joy
+243,I feel nervous inside today,fear
+244,I feel trust and affection today,love
+245,Everything feels pointless right now,pessimism
+246,I don’t feel optimistic anymore today,pessimism
+247,I’m irritated by everything today right now,anger
+248,I feel broken inside,sadness
+249,I feel happy and content right now,joy
+250,I feel drained emotionally these days,sadness
+251,I feel sad for no reason today,sadness
+252,I feel anxious and scared today,fear
+253,Things are going great for me,joy
+254,I feel discouraged about everything lately,pessimism
+255,I feel joyful and relaxed today,joy
+256,I feel accomplished today,joy
+257,I feel nothing will change these days,pessimism
+258,I feel pessimistic about life these days,pessimism
+259,I feel emotionally close recently,love
+260,I feel empty inside at the moment,sadness
+261,I’m afraid of making mistakes these days,fear
+262,I can’t control my anger at the moment,anger
+263,I feel really low today recently,sadness
+264,I feel nervous about tomorrow right now,fear
+265,I feel fearful inside lately,fear
+266,I feel tired and low these days,sadness
+267,Everything feels pointless these days,pessimism
+268,I’m fearful about outcomes at the moment,fear
+269,I feel hurt and disappointed,sadness
+270,I feel close and valued today,love
+271,I value this connection,love
+272,I’m fearful about outcomes at the moment,fear
+273,I feel great today recently,joy
+274,I’m upset and furious today,anger
+275,I feel anxious about the future today,fear
+276,I feel angry and tense recently,anger
+277,I can’t control my anger these days,anger
+278,I feel sad for no reason,sadness
+279,I’m fed up and angry lately,anger
+280,I feel upset and mad at the moment,anger
+281,I feel drained emotionally at the moment,sadness
+282,I feel worried and afraid at the moment,fear
+283,I feel sad for no reason,sadness
+284,I feel accomplished today,joy
+285,I don’t feel optimistic anymore these days,pessimism
+286,I value this connection at the moment,love
+287,I feel weak and low today,sadness
+288,I’m enjoying this moment,joy
+289,Today feels amazing at the moment,joy
+290,lately,
+291,I feel anxious and scared right now,fear
+292,I don’t see meaning in trying,pessimism
+293,I don’t feel optimistic anymore,pessimism
+294,I feel positive today these days,joy
+295,I feel satisfied and happy right now,joy
+296,I’m enjoying this moment these days,joy
+297,I finally finished my project recently,joy
+298,I’ve lost hope about things lately,pessimism
+299,I feel like giving up at the moment,sadness
+300,Life feels heavy right now,sadness
+301,I feel happy and content lately,joy
+302,I feel understood at the moment,love
+303,I feel emotionally close lately,love
+304,I don’t see meaning in trying right now,pessimism
+305,I’m afraid things might go wrong recently,fear
+306,I feel lonely and sad,sadness
+307,I feel worried and afraid lately,fear
+308,I’m scared of consequences these days,fear
+309,I’m fearful about outcomes these days,fear
+310,Nothing really matters anymore lately,pessimism
+311,I feel mentally exhausted recently,sadness
+312,I feel cheerful today recently,joy
+313,I can’t control my anger lately,anger
+314,I feel delighted right now lately,joy
+315,I feel irritated and upset recently,anger
+316,Life feels heavy right now,sadness
+317,I feel stuck in a bad place lately,pessimism
+318,I feel trust and affection right now,love
+319,I’m scared about my exams these days,fear
+320,I’m afraid of making mistakes,fear
+321,I feel anxious about the future at the moment,fear
+322,I feel sad for no reason these days,sadness
+323,I feel cared for at the moment,love
+324,Life feels heavy right now lately,sadness
+325,I feel loved right now at the moment,love
+326,I feel upbeat and happy these days,joy
+327,I feel upset and mad these days,anger
+328,I feel irritated and upset lately,anger
+329,I’m fed up and angry these days,anger
+330,I feel anxious about the future at the moment,fear
+331,I feel nervous and worried right now,fear
+332,I feel frustrated and angry lately,anger
+333,Nothing really matters anymore lately,pessimism
+334,I’m constantly worried right now,fear
+335,I’m not okay emotionally at the moment,sadness
+336,I feel discouraged about everything these days,pessimism
+337,I feel empty inside recently,sadness
+338,I think things will fail today,pessimism
+339,I feel joyful and relaxed right now,joy
+340,I feel understood at the moment,love
+341,I feel nervous and worried lately,fear
+342,I’m not okay emotionally these days,sadness
+343,I feel emotionally supported these days,love
+344,I feel worried and afraid these days,fear
+345,I’m proud of myself lately,joy
+346,I feel broken inside today,sadness
+347,I feel angry and tense at the moment,anger
+348,I feel satisfied and happy at the moment,joy
+349,I’m irritated by everything today,anger
+350,I feel hopeless lately right now,pessimism
+351,I’m scared of consequences these days,fear
+352,I feel really low today at the moment,sadness
+353,I don’t expect good outcomes recently,pessimism
+354,I feel safe and cared for at the moment,love
+355,I feel anxious and scared,fear
+356,I value this connection lately,love
+357,I feel discouraged about everything lately,pessimism
+358,I feel weak and low,sadness
+359,I feel fearful inside lately,fear
+360,I really appreciate you today,love
+361,I feel negative about everything these days,pessimism
+362,I feel joyful and relaxed lately,joy
+363,I feel worried and afraid at the moment,fear
+364,I don’t believe things will improve recently,pessimism
+365,right now,
+366,I value this connection lately,love
+367,I’m feeling down today,sadness
+368,I feel accomplished these days,joy
+369,I feel accomplished these days,joy
+370,I expect things to go wrong these days,pessimism
+371,I feel sad for no reason lately,sadness
+372,I feel scared and tense lately,fear
+373,I feel trust and affection right now,love
+374,I feel empty inside recently,sadness
+375,I feel angry inside today,anger
+376,I feel pessimistic about life,pessimism
+377,I feel weak and low these days,sadness
+378,I feel overwhelmed and sad today,sadness
+379,I feel upset and mad recently,anger
+380,I feel panic thinking about it these days,fear
+381,I don’t believe things will improve,pessimism
+382,I’m constantly worried at the moment,fear
+383,I feel frustrated and angry recently,anger
+384,I’m feeling wonderful recently,joy
+385,I feel empty inside right now,sadness
+386,I don’t expect good outcomes right now,pessimism
+387,I feel great today at the moment,joy
+388,I’m in a really good mood these days,joy
+389,I don’t see a positive future today,pessimism
+390,I feel rage building up right now,anger
+391,I feel positive today at the moment,joy
+392,I feel rage within me recently,anger
+393,I’m fed up and angry at the moment,anger
+394,right now,
+395,I feel delighted right now lately,joy
+396,I feel everything is pointless lately,pessimism
+397,I feel a lot of affection recently,love
+398,I feel stuck in a bad place these days,pessimism
+399,I feel nervous about tomorrow,fear
+400,I feel uneasy right now recently,fear
+401,I feel positive today recently,joy
+402,I’m not okay emotionally recently,sadness
+403,Today feels amazing these days,joy
+404,I’m in a really good mood lately,joy
+405,I don’t feel like doing anything at the moment,sadness
+406,I feel close and valued,love
+407,I’m fed up and angry right now,anger
+408,I really appreciate you these days,love
+409,I feel empty inside today,sadness
+410,I don’t see a positive future,pessimism
+411,I feel anxious and scared today,fear
+412,I feel empty inside right now,sadness
+413,I feel nervous and worried right now,fear
+414,I feel nervous and worried these days,fear
+415,I feel fearful inside today,fear
+416,I feel anxious constantly today,fear
+417,I feel emotionally numb,sadness
+418,I feel scared and tense lately,fear
+419,I’m in a really good mood recently,joy
+420,I feel anxious and scared today,fear
+421,I feel mentally exhausted recently,sadness
+422,I feel comforted recently,love
+423,I feel anxious constantly recently,fear
+424,I feel empty inside today,sadness
+425,I don’t expect good outcomes recently,pessimism
+426,I feel connected to you,love
+427,I’m in a really good mood right now,joy
+428,Everything feels pointless at the moment,pessimism
+429,I’m grateful for this support today,love
+430,I feel understood today,love
+431,I don’t believe things will improve at the moment,pessimism
+432,I feel mad about the situation lately,anger
+433,I don’t see things getting better at the moment,pessimism
+434,I’m constantly worried lately,fear
+435,I feel nervous about tomorrow right now,fear
+436,I’m afraid of making mistakes these days,fear
+437,I don’t feel optimistic anymore at the moment,pessimism
+438,I feel connected to you at the moment,love
+439,I value this connection today,love
+440,I’m feeling wonderful right now,joy
+441,I feel mad about the situation right now,anger
+442,I feel connected to you these days,love
+443,I’m really frustrated right now these days,anger
+444,I feel supported emotionally lately,love
+445,at the moment,
+446,I’m smiling today these days,joy
+447,at the moment,
+448,I feel warmth and trust lately,love
+449,I feel angry inside right now,anger
+450,I feel a lot of affection at the moment,love
+451,I feel negative about everything recently,pessimism
+452,I feel nervous inside,fear
+453,I feel upset and mad right now,anger
+454,I feel nervous inside lately,fear
+455,I feel happy and content at the moment,joy
+456,I feel nothing will change these days,pessimism
+457,I feel cheerful today,joy
+458,I feel rage building up recently,anger
+459,I feel panic thinking about it right now,fear
+460,I’m irritated by everything today,anger
+461,I’m scared of consequences recently,fear
+462,I’m angry at everything,anger
+463,Life feels heavy right now at the moment,sadness
+464,I can’t control my anger recently,anger
+465,I feel angry about what happened recently,anger
+466,I feel mad about the situation recently,anger
+467,these days,
+468,today,
+469,Everything feels pointless recently,pessimism
+470,I’m grateful for this support these days,love
+471,I feel cheerful today,joy
+472,I feel worried and afraid today,fear
+473,I’m irritated by everything today recently,anger
+474,I feel hurt and disappointed lately,sadness
+475,I feel stuck in a bad place,pessimism
+476,I don’t feel like doing anything right now,sadness
+477,I feel irritated constantly recently,anger
+478,Things are going great for me recently,joy
+479,I feel cheerful today,joy
+480,I feel excited and joyful at the moment,joy
+481,I feel understood lately,love
+482,I feel overwhelmed and sad,sadness
+483,I’m really frustrated right now,anger
+484,Things are going great for me today,joy
+485,I’m proud of myself at the moment,joy
+486,I don’t expect good outcomes,pessimism
+487,I’m grateful for this support today,love
+488,I feel delighted right now at the moment,joy
+489,I finally finished my project these days,joy
+490,I feel pessimistic about life these days,pessimism
+491,I feel angry inside at the moment,anger
+492,I feel safe and cared for recently,love
+493,I feel nervous about tomorrow today,fear
+494,I feel comforted lately,love
+495,I feel discouraged about everything today,pessimism
+496,I feel joyful and relaxed these days,joy
+497,I feel frustrated and angry at the moment,anger
+498,I feel irritated and upset these days,anger
+499,I feel angry inside,anger
+500,I feel drained emotionally right now,sadness

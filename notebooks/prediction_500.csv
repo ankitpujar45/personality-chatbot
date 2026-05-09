@@ -1,0 +1,501 @@
+id,text,ground_truth,predicted_emotion,confidence
+1,I’m terrified of failing at the moment,fear,fear,0.9061
+2,I feel rage building up at the moment,anger,anger,0.7778
+3,I feel anxious and scared today,fear,fear,0.9328
+4,I think things will fail lately,pessimism,fear,0.3603
+5,I feel hurt and disappointed,sadness,sadness,0.563
+6,I feel angry about what happened these days,anger,anger,0.8734
+7,I feel delighted right now,joy,joy,0.8404
+8,I’m grateful for this support lately,love,joy,0.8289
+9,I feel understood recently,love,joy,0.1941
+10,I’ve lost hope about things these days,pessimism,fear,0.2805
+11,I feel emotionally supported,love,joy,0.6223
+12,I’m angry at everything these days,anger,anger,0.8716
+13,I feel discouraged about everything right now,pessimism,sadness,0.6027
+14,I feel satisfied and happy,joy,joy,0.9042
+15,I can’t control my anger lately,anger,anger,0.8269
+16,,,joy,0.1627
+17,I feel hopeless lately,pessimism,sadness,0.6092
+18,I feel upbeat and happy,joy,joy,0.6025
+19,I feel scared and tense recently,fear,fear,0.9334
+20,I feel great today right now,joy,joy,0.6673
+21,I feel everything is pointless right now,pessimism,sadness,0.462
+22,I feel cheerful today these days,joy,joy,0.6357
+23,I feel trust and affection at the moment,love,trust,0.886
+24,I’m grateful for this support at the moment,love,joy,0.8404
+25,I feel cheerful today at the moment,joy,joy,0.6938
+26,I feel upbeat and happy recently,joy,joy,0.6626
+27,I feel overwhelmed and sad lately,sadness,sadness,0.7424
+28,I feel everything is pointless,pessimism,sadness,0.4484
+29,I feel emotionally close these days,love,sadness,0.5182
+30,I feel negative about everything these days,pessimism,sadness,0.3255
+31,Nothing really matters anymore these days,pessimism,pessimism,0.2055
+32,Nothing really matters anymore,pessimism,pessimism,0.1969
+33,I feel close and valued lately,love,trust,0.3489
+34,I finally finished my project today,joy,joy,0.7689
+35,Life feels heavy right now these days,sadness,sadness,0.5803
+36,I feel irritated constantly right now,anger,anger,0.6865
+37,I feel broken inside,sadness,pessimism,0.4331
+38,I’m terrified of failing at the moment,fear,fear,0.9061
+39,This makes me really angry these days,anger,anger,0.8597
+40,I feel sad for no reason today,sadness,sadness,0.5876
+41,I feel really happy today,joy,joy,0.9044
+42,I feel angry about what happened recently,anger,anger,0.8738
+43,I feel pessimistic about life today,pessimism,joy,0.3559
+44,I don’t feel optimistic anymore lately,pessimism,optimism,0.3996
+45,I feel cared for recently,love,love,0.8771
+46,I feel a lot of affection today,love,love,0.7392
+47,Today feels amazing,joy,joy,0.7622
+48,today,,joy,0.2855
+49,I feel loved right now,love,love,0.624
+50,I’m enjoying this moment at the moment,joy,joy,0.7521
+51,I feel supported emotionally lately,love,joy,0.6659
+52,Everything feels pointless at the moment,pessimism,sadness,0.5208
+53,I feel comforted recently,love,joy,0.5103
+54,I feel frustrated and angry at the moment,anger,anger,0.7951
+55,I feel tired and low,sadness,sadness,0.6031
+56,I feel everything is pointless,pessimism,sadness,0.4484
+57,I feel nervous inside at the moment,fear,fear,0.9292
+58,I’m irritated by everything today at the moment,anger,anger,0.5907
+59,I feel panic thinking about it these days,fear,fear,0.9383
+60,I feel joyful and relaxed these days,joy,joy,0.8427
+61,I’m terrified of failing,fear,fear,0.9124
+62,I finally finished my project,joy,joy,0.7686
+63,I’m scared about my exams today,fear,fear,0.9218
+64,I feel delighted right now today,joy,joy,0.8501
+65,I feel angry about what happened these days,anger,anger,0.8734
+66,I feel irritated and upset recently,anger,anger,0.5986
+67,I feel rage within me today,anger,anger,0.7985
+68,I’m scared about my exams recently,fear,fear,0.9162
+69,I feel annoyed all the time at the moment,anger,anger,0.6904
+70,at the moment,,fear,0.1746
+71,I’m irritated by everything today,anger,anger,0.5979
+72,I’m grateful for this support right now,love,joy,0.8348
+73,I feel joyful and relaxed recently,joy,joy,0.8642
+74,I feel satisfied and happy recently,joy,joy,0.914
+75,I’m terrified of failing at the moment,fear,fear,0.9061
+76,Nothing feels right anymore right now,sadness,fear,0.3056
+77,Things are going great for me today,joy,fear,0.4108
+78,I feel bonded emotionally today,love,anticipation,0.4063
+79,This makes me really angry these days,anger,anger,0.8597
+80,I feel upbeat and happy these days,joy,joy,0.6195
+81,I feel drained emotionally right now,sadness,sadness,0.7711
+82,I feel panic thinking about it these days,fear,fear,0.9383
+83,I feel drained emotionally recently,sadness,sadness,0.746
+84,It feels useless to try right now,pessimism,sadness,0.4442
+85,I’m enjoying this moment these days,joy,joy,0.6695
+86,I’m proud of myself lately,joy,joy,0.875
+87,I feel warmth and trust these days,love,trust,0.804
+88,I feel angry about what happened today,anger,anger,0.8745
+89,I’m scared of what will happen recently,fear,fear,0.9227
+90,It feels useless to try right now,pessimism,fear,0.4442
+91,I feel frustrated and angry lately,anger,anger,0.8059
+92,I feel weak and low lately,sadness,sadness,0.5753
+93,I feel anxious constantly at the moment,fear,fear,0.9367
+94,today,,fear,0.2855
+95,I feel thankful for you at the moment,love,joy,0.8668
+96,I feel emotionally supported recently,love,joy,0.67
+97,I’ve lost hope about things at the moment,pessimism,joy,0.3076
+98,I feel nervous about tomorrow recently,fear,fear,0.9053
+99,Life feels heavy right now,sadness,sadness,0.647
+100,I’m fed up and angry recently,anger,anger,0.686
+101,I feel rage building up these days,anger,anger,0.793
+102,Nothing feels right anymore recently,sadness,anger,0.2969
+103,I feel emotionally numb right now,sadness,sadness,0.6996
+104,I value this connection these days,love,sadness,0.2934
+105,I value this connection at the moment,love,trust,0.3921
+106,I feel stuck in negativity these days,pessimism,sadness,0.642
+107,I feel irritated and upset,anger,anger,0.6079
+108,I feel really low today lately,sadness,sadness,0.8233
+109,I feel positive today recently,joy,optimism,0.4283
+110,I’m fed up and angry these days,anger,anger,0.6657
+111,I feel accomplished right now,joy,joy,0.4583
+112,I feel cared for these days,love,love,0.8912
+113,I feel discouraged about everything right now,pessimism,sadness,0.6027
+114,I’m terrified of failing recently,fear,fear,0.908
+115,I feel emotionally drained these days,sadness,sadness,0.7074
+116,I feel upbeat and happy recently,joy,joy,0.6626
+117,I feel nervous about tomorrow at the moment,fear,fear,0.9082
+118,I feel weak and low at the moment,sadness,sadness,0.5704
+119,I feel anxious about the future today,fear,fear,0.8997
+120,I don’t believe things will improve,pessimism,fear,0.2767
+121,I’m fed up and angry right now,anger,anger,0.6298
+122,I feel cared for lately,love,love,0.8403
+123,I feel rage within me right now,anger,anger,0.7488
+124,I’m scared of what will happen these days,fear,fear,0.9262
+125,I’m irritated by everything today right now,anger,anger,0.5853
+126,I feel a lot of affection recently,love,love,0.7284
+127,I feel nothing will change at the moment,pessimism,fear,0.3574
+128,I’m feeling down today at the moment,sadness,sadness,0.8552
+129,I feel supported emotionally these days,love,joy,0.6171
+130,I don’t see things getting better,pessimism,sadness,0.3825
+131,I feel satisfied and happy recently,joy,joy,0.914
+132,right now,,joy,0.1844
+133,I feel loved right now these days,love,love,0.792
+134,I feel cheerful today at the moment,joy,joy,0.6938
+135,I feel annoyed all the time these days,anger,anger,0.721
+136,It feels useless to try,pessimism,joy,0.3667
+137,I feel close and valued recently,love,love,0.3948
+138,It feels useless to try at the moment,pessimism,sadness,0.3732
+139,I don’t see a positive future these days,pessimism,sadness,0.2433
+140,I don’t expect good outcomes lately,pessimism,sadness,0.3635
+141,I don’t expect good outcomes today,pessimism,optimism,0.3342
+142,I’m feeling wonderful these days,joy,joy,0.5804
+143,I feel annoyed all the time these days,anger,anger,0.721
+144,I feel overwhelmed and sad,sadness,sadness,0.7236
+145,I feel rage within me,anger,anger,0.7868
+146,I’m annoyed beyond control these days,anger,anger,0.7552
+147,I’m afraid things might go wrong these days,fear,fear,0.8427
+148,I feel anxious constantly these days,fear,fear,0.9366
+149,I feel safe and cared for recently,love,love,0.5875
+150,I feel a lot of affection right now,love,love,0.788
+151,I feel broken inside lately,sadness,sadness,0.4668
+152,I don’t see things getting better these days,pessimism,sadness,0.3025
+153,I’m angry at everything right now,anger,anger,0.8694
+154,I’m irritated by everything today right now,anger,anger,0.5853
+155,I’m scared about my exams recently,fear,fear,0.9162
+156,I’m enjoying this moment at the moment,joy,joy,0.7521
+157,I feel angry and tense,anger,anger,0.7729
+158,I feel negative about everything right now,pessimism,fear,0.3217
+159,I’m irritated by everything today lately,anger,anger,0.6016
+160,It feels useless to try,pessimism,fear,0.3667
+161,I feel irritated and upset,anger,anger,0.6079
+162,I’m constantly worried recently,fear,fear,0.7862
+163,I feel warmth and trust lately,love,trust,0.811
+164,I feel weak and low right now,sadness,sadness,0.6551
+165,I feel nervous and worried right now,fear,fear,0.909
+166,I feel trust and affection,love,trust,0.878
+167,I really appreciate you at the moment,love,fear,0.3966
+168,I feel angry inside at the moment,anger,anger,0.8625
+169,I feel frustrated and angry today,anger,anger,0.8017
+170,I’m in a really good mood at the moment,joy,joy,0.6181
+171,I feel a lot of affection lately,love,love,0.7077
+172,I feel upset and mad,anger,anger,0.5532
+173,I feel irritated constantly lately,anger,anger,0.7092
+174,I feel bonded emotionally these days,love,love,0.4617
+175,I’m in a really good mood these days,joy,joy,0.5617
+176,Life feels heavy right now at the moment,sadness,sadness,0.6343
+177,I think things will fail,pessimism,fear,0.3664
+178,I value this connection right now,love,fear,0.2883
+179,at the moment,,fear,0.1746
+180,I feel anxious constantly today,fear,fear,0.9364
+181,I’m really frustrated right now today,anger,anger,0.7044
+182,I feel irritated and upset these days,anger,anger,0.6567
+183,I feel empty inside,sadness,sadness,0.8635
+184,I feel anxious and scared at the moment,fear,fear,0.9308
+185,I feel excited and joyful at the moment,joy,joy,0.5277
+186,I feel anxious about the future recently,fear,fear,0.8961
+187,I feel stuck in negativity today,pessimism,sadness,0.7793
+188,I feel discouraged about everything lately,pessimism,sadness,0.6049
+189,I’m feeling wonderful these days,joy,joy,0.5804
+190,I feel nothing will change recently,pessimism,sadness,0.2419
+191,I feel overwhelmed and sad right now,sadness,sadness,0.7424
+192,I don’t see meaning in trying lately,pessimism,sadness,0.21
+193,I feel positive today right now,joy,sadness,0.3941
+194,I feel emotionally drained these days,sadness,sadness,0.7074
+195,I feel appreciated today,love,joy,0.6056
+196,I feel everything is pointless lately,pessimism,sadness,0.4467
+197,I’m proud of myself recently,joy,joy,0.8801
+198,This makes me really angry today,anger,anger,0.8663
+199,I feel irritated and upset lately,anger,anger,0.6224
+200,I’m grateful for this support these days,love,joy,0.7912
+201,I feel emotionally numb at the moment,sadness,sadness,0.6349
+202,I feel stuck in a bad place today,pessimism,sadness,0.614
+203,I feel anxious and scared lately,fear,fear,0.9285
+204,I feel empty inside recently,sadness,sadness,0.855
+205,I feel bonded emotionally recently,love,love,0.8742
+206,I feel appreciated lately,love,love,0.9554
+207,I value this connection lately,love,love,0.8596
+208,I feel accomplished,joy,anticipation,0.6377
+209,I feel lonely and sad today,sadness,sadness,0.918
+210,I feel loved right now at the moment,love,love,0.635
+211,I feel happy and content recently,joy,joy,0.9108
+212,I feel warmth inside recently,love,love,0.8161
+213,I’m feeling wonderful lately,joy,joy,0.6175
+214,I’m afraid of making mistakes today,fear,fear,0.7781
+215,I feel panic thinking about it recently,fear,fear,0.9364
+216,I’m afraid things might go wrong,fear,fear,0.8331
+217,I feel drained emotionally these days,sadness,sadness,0.7405
+218,I’m smiling today right now,joy,joy,0.623
+219,I feel nervous inside lately,fear,fear,0.9263
+220,I feel anxious about the future,fear,fear,0.8931
+221,I feel panic rising at the moment,fear,fear,0.9427
+222,I don’t expect good outcomes recently,pessimism,fear,0.396
+223,I don’t feel like doing anything right now,sadness,fear,0.1919
+224,I’m grateful for this support lately,love,love,0.9289
+225,This makes me really angry right now,anger,anger,0.8589
+226,I’m scared of consequences recently,fear,fear,0.9133
+227,I feel understood lately,love,love,0.9174
+228,I feel upbeat and happy,joy,joy,0.6025
+229,I feel nervous and worried today,fear,fear,0.9128
+230,It feels useless to try today,pessimism,fear,0.3936
+231,I feel nervous and worried at the moment,fear,fear,0.9118
+232,I feel satisfied and happy today,joy,joy,0.9147
+233,I don’t see a positive future right now,pessimism,fear,0.3352
+234,I feel panic thinking about it right now,fear,fear,0.9402
+235,I’m feeling down today right now,sadness,sadness,0.8524
+236,I feel positive today,joy,fear,0.4245
+237,I feel nervous inside recently,fear,fear,0.9254
+238,I really appreciate you,love,love,0.9279
+239,I feel nervous about tomorrow today,fear,fear,0.9135
+240,I think things will fail these days,pessimism,fear,0.3617
+241,I really appreciate you recently,love,love,0.8462
+242,I feel cheerful today at the moment,joy,joy,0.6938
+243,I feel nervous inside today,fear,fear,0.9318
+244,I feel trust and affection today,love,love,0.8687
+245,Everything feels pointless right now,pessimism,sadness,0.5959
+246,I don’t feel optimistic anymore today,pessimism,optimism,0.3759
+247,I’m irritated by everything today right now,anger,anger,0.5853
+248,I feel broken inside,sadness,optimism,0.4331
+249,I feel happy and content right now,joy,joy,0.9125
+250,I feel drained emotionally these days,sadness,sadness,0.7405
+251,I feel sad for no reason today,sadness,sadness,0.5876
+252,I feel anxious and scared today,fear,fear,0.9328
+253,Things are going great for me,joy,anticipation,0.5079
+254,I feel discouraged about everything lately,pessimism,sadness,0.6049
+255,I feel joyful and relaxed today,joy,joy,0.865
+256,I feel accomplished today,joy,anticipation,0.5318
+257,I feel nothing will change these days,pessimism,anticipation,0.2431
+258,I feel pessimistic about life these days,pessimism,sadness,0.2633
+259,I feel emotionally close recently,love,love,0.8638
+260,I feel empty inside at the moment,sadness,sadness,0.8728
+261,I’m afraid of making mistakes these days,fear,fear,0.7952
+262,I can’t control my anger at the moment,anger,anger,0.8144
+263,I feel really low today recently,sadness,sadness,0.8155
+264,I feel nervous about tomorrow right now,fear,fear,0.9123
+265,I feel fearful inside lately,fear,fear,0.9262
+266,I feel tired and low these days,sadness,sadness,0.595
+267,Everything feels pointless these days,pessimism,sadness,0.4814
+268,I’m fearful about outcomes at the moment,fear,fear,0.9125
+269,I feel hurt and disappointed,sadness,sadness,0.563
+270,I feel close and valued today,love,love,0.8305
+271,I value this connection,love,love,0.8881
+272,I’m fearful about outcomes at the moment,fear,fear,0.9125
+273,I feel great today recently,joy,joy,0.6162
+274,I’m upset and furious today,anger,anger,0.8205
+275,I feel anxious about the future today,fear,fear,0.8997
+276,I feel angry and tense recently,anger,anger,0.8074
+277,I can’t control my anger these days,anger,anger,0.8246
+278,I feel sad for no reason,sadness,sadness,0.5849
+279,I’m fed up and angry lately,anger,anger,0.6388
+280,I feel upset and mad at the moment,anger,anger,0.6052
+281,I feel drained emotionally at the moment,sadness,sadness,0.7509
+282,I feel worried and afraid at the moment,fear,fear,0.8996
+283,I feel sad for no reason,sadness,sadness,0.5849
+284,I feel accomplished today,joy,anticipation,0.5318
+285,I don’t feel optimistic anymore these days,pessimism,optimism,0.4154
+286,I value this connection at the moment,love,love,0.8921
+287,I feel weak and low today,sadness,sadness,0.6515
+288,I’m enjoying this moment,joy,joy,0.7198
+289,Today feels amazing at the moment,joy,joy,0.8004
+290,lately,,joy,0.1737
+291,I feel anxious and scared right now,fear,fear,0.9312
+292,I don’t see meaning in trying,pessimism,fear,0.2
+293,I don’t feel optimistic anymore,pessimism,fear,0.3578
+294,I feel positive today these days,joy,optimism,0.4209
+295,I feel satisfied and happy right now,joy,joy,0.9241
+296,I’m enjoying this moment these days,joy,joy,0.6695
+297,I finally finished my project recently,joy,joy,0.7772
+298,I’ve lost hope about things lately,pessimism,joy,0.2733
+299,I feel like giving up at the moment,sadness,fear,0.2958
+300,Life feels heavy right now,sadness,sadness,0.647
+301,I feel happy and content lately,joy,joy,0.9076
+302,I feel understood at the moment,love,love,0.9127
+303,I feel emotionally close lately,love,love,0.8096
+304,I don’t see meaning in trying right now,pessimism,sadness,0.2396
+305,I’m afraid things might go wrong recently,fear,fear,0.8213
+306,I feel lonely and sad,sadness,sadness,0.9123
+307,I feel worried and afraid lately,fear,fear,0.8861
+308,I’m scared of consequences these days,fear,fear,0.9208
+309,I’m fearful about outcomes these days,fear,fear,0.9093
+310,Nothing really matters anymore lately,pessimism,fear,0.1972
+311,I feel mentally exhausted recently,sadness,sadness,0.5365
+312,I feel cheerful today recently,joy,joy,0.6876
+313,I can’t control my anger lately,anger,anger,0.8269
+314,I feel delighted right now lately,joy,joy,0.8482
+315,I feel irritated and upset recently,anger,anger,0.5986
+316,Life feels heavy right now,sadness,sadness,0.647
+317,I feel stuck in a bad place lately,pessimism,sadness,0.6222
+318,I feel trust and affection right now,love,love,0.8744
+319,I’m scared about my exams these days,fear,fear,0.921
+320,I’m afraid of making mistakes,fear,fear,0.7723
+321,I feel anxious about the future at the moment,fear,fear,0.9023
+322,I feel sad for no reason these days,sadness,sadness,0.6088
+323,I feel cared for at the moment,love,love,0.8383
+324,Life feels heavy right now lately,sadness,sadness,0.6175
+325,I feel loved right now at the moment,love,love,0.635
+326,I feel upbeat and happy these days,joy,joy,0.6195
+327,I feel upset and mad these days,anger,anger,0.6596
+328,I feel irritated and upset lately,anger,anger,0.6224
+329,I’m fed up and angry these days,anger,anger,0.6657
+330,I feel anxious about the future at the moment,fear,fear,0.9023
+331,I feel nervous and worried right now,fear,fear,0.909
+332,I feel frustrated and angry lately,anger,anger,0.8059
+333,Nothing really matters anymore lately,pessimism,fear,0.1972
+334,I’m constantly worried right now,fear,fear,0.8014
+335,I’m not okay emotionally at the moment,sadness,fear,0.4612
+336,I feel discouraged about everything these days,pessimism,sadness,0.5631
+337,I feel empty inside recently,sadness,sadness,0.855
+338,I think things will fail today,pessimism,sadness,0.3736
+339,I feel joyful and relaxed right now,joy,joy,0.87
+340,I feel understood at the moment,love,love,0.8127
+341,I feel nervous and worried lately,fear,fear,0.9054
+342,I’m not okay emotionally these days,sadness,fear,0.3891
+343,I feel emotionally supported these days,love,love,0.8994
+344,I feel worried and afraid these days,fear,fear,0.8916
+345,I’m proud of myself lately,joy,joy,0.875
+346,I feel broken inside today,sadness,fear,0.437
+347,I feel angry and tense at the moment,anger,anger,0.7742
+348,I feel satisfied and happy at the moment,joy,joy,0.9189
+349,I’m irritated by everything today,anger,anger,0.5979
+350,I feel hopeless lately right now,pessimism,sadness,0.6676
+351,I’m scared of consequences these days,fear,fear,0.9208
+352,I feel really low today at the moment,sadness,sadness,0.8406
+353,I don’t expect good outcomes recently,pessimism,fear,0.396
+354,I feel safe and cared for at the moment,love,love,0.8377
+355,I feel anxious and scared,fear,fear,0.9282
+356,I value this connection lately,love,love,0.8596
+357,I feel discouraged about everything lately,pessimism,sadness,0.6049
+358,I feel weak and low,sadness,sadness,0.5938
+359,I feel fearful inside lately,fear,fear,0.9262
+360,I really appreciate you today,love,love,0.8168
+361,I feel negative about everything these days,pessimism,fear,0.3255
+362,I feel joyful and relaxed lately,joy,joy,0.8538
+363,I feel worried and afraid at the moment,fear,fear,0.8996
+364,I don’t believe things will improve recently,pessimism,fear,0.2494
+365,right now,,fear,0.1844
+366,I value this connection lately,love,love,0.9596
+367,I’m feeling down today,sadness,sadness,0.8438
+368,I feel accomplished these days,joy,anticipation,0.609
+369,I feel accomplished these days,joy,anticipation,0.609
+370,I expect things to go wrong these days,pessimism,fear,0.5697
+371,I feel sad for no reason lately,sadness,sadness,0.6157
+372,I feel scared and tense lately,fear,fear,0.9342
+373,I feel trust and affection right now,love,love,0.8744
+374,I feel empty inside recently,sadness,sadness,0.855
+375,I feel angry inside today,anger,anger,0.871
+376,I feel pessimistic about life,pessimism,sadness,0.2999
+377,I feel weak and low these days,sadness,sadness,0.5778
+378,I feel overwhelmed and sad today,sadness,sadness,0.7371
+379,I feel upset and mad recently,anger,anger,0.5547
+380,I feel panic thinking about it these days,fear,fear,0.9383
+381,I don’t believe things will improve,pessimism,fear,0.2767
+382,I’m constantly worried at the moment,fear,fear,0.8375
+383,I feel frustrated and angry recently,anger,anger,0.7933
+384,I’m feeling wonderful recently,joy,joy,0.6128
+385,I feel empty inside right now,sadness,sadness,0.8691
+386,I don’t expect good outcomes right now,pessimism,optimism,0.3162
+387,I feel great today at the moment,joy,joy,0.566
+388,I’m in a really good mood these days,joy,joy,0.5617
+389,I don’t see a positive future today,pessimism,joy,0.3016
+390,I feel rage building up right now,anger,anger,0.7708
+391,I feel positive today at the moment,joy,optimism,0.4078
+392,I feel rage within me recently,anger,anger,0.7966
+393,I’m fed up and angry at the moment,anger,anger,0.6691
+394,right now,,anger,0.1844
+395,I feel delighted right now lately,joy,joy,0.8482
+396,I feel everything is pointless lately,pessimism,joy,0.4467
+397,I feel a lot of affection recently,love,love,0.7284
+398,I feel stuck in a bad place these days,pessimism,sadness,0.5614
+399,I feel nervous about tomorrow,fear,fear,0.9046
+400,I feel uneasy right now recently,fear,fear,0.9413
+401,I feel positive today recently,joy,fear,0.4283
+402,I’m not okay emotionally recently,sadness,fear,0.405
+403,Today feels amazing these days,joy,joy,0.7527
+404,I’m in a really good mood lately,joy,joy,0.5625
+405,I don’t feel like doing anything at the moment,sadness,joy,0.2737
+406,I feel close and valued,love,love,0.8558
+407,I’m fed up and angry right now,anger,anger,0.6298
+408,I really appreciate you these days,love,love,0.9177
+409,I feel empty inside today,sadness,sadness,0.8736
+410,I don’t see a positive future,pessimism,fear,0.2482
+411,I feel anxious and scared today,fear,fear,0.9328
+412,I feel empty inside right now,sadness,sadness,0.8691
+413,I feel nervous and worried right now,fear,fear,0.909
+414,I feel nervous and worried these days,fear,fear,0.9094
+415,I feel fearful inside today,fear,fear,0.933
+416,I feel anxious constantly today,fear,fear,0.9364
+417,I feel emotionally numb,sadness,sadness,0.6597
+418,I feel scared and tense lately,fear,fear,0.9342
+419,I’m in a really good mood recently,joy,joy,0.5422
+420,I feel anxious and scared today,fear,fear,0.9328
+421,I feel mentally exhausted recently,sadness,sadness,0.5365
+422,I feel comforted recently,love,love,0.5103
+423,I feel anxious constantly recently,fear,fear,0.9324
+424,I feel empty inside today,sadness,sadness,0.8736
+425,I don’t expect good outcomes recently,pessimism,fear,0.396
+426,I feel connected to you,love,love,0.8561
+427,I’m in a really good mood right now,joy,joy,0.663
+428,Everything feels pointless at the moment,pessimism,sadness,0.5208
+429,I’m grateful for this support today,love,love,0.8357
+430,I feel understood today,love,love,0.8972
+431,I don’t believe things will improve at the moment,pessimism,joy,0.24
+432,I feel mad about the situation lately,anger,anger,0.8863
+433,I don’t see things getting better at the moment,pessimism,joy,0.3095
+434,I’m constantly worried lately,fear,fear,0.8117
+435,I feel nervous about tomorrow right now,fear,fear,0.9123
+436,I’m afraid of making mistakes these days,fear,fear,0.7952
+437,I don’t feel optimistic anymore at the moment,pessimism,fear,0.3915
+438,I feel connected to you at the moment,love,love,0.8772
+439,I value this connection today,love,love,0.9055
+440,I’m feeling wonderful right now,joy,joy,0.6944
+441,I feel mad about the situation right now,anger,anger,0.8867
+442,I feel connected to you these days,love,love,0.5237
+443,I’m really frustrated right now these days,anger,anger,0.7212
+444,I feel supported emotionally lately,love,love,0.6659
+445,at the moment,,joy,0.1746
+446,I’m smiling today these days,joy,joy,0.575
+447,at the moment,,sadness,0.1746
+448,I feel warmth and trust lately,love,love,0.811
+449,I feel angry inside right now,anger,anger,0.8637
+450,I feel a lot of affection at the moment,love,love,0.7427
+451,I feel negative about everything recently,pessimism,pessimism,0.343
+452,I feel nervous inside,fear,fear,0.928
+453,I feel upset and mad right now,anger,anger,0.5656
+454,I feel nervous inside lately,fear,fear,0.9263
+455,I feel happy and content at the moment,joy,joy,0.9166
+456,I feel nothing will change these days,pessimism,fear,0.2431
+457,I feel cheerful today,joy,joy,0.6645
+458,I feel rage building up recently,anger,anger,0.8019
+459,I feel panic thinking about it right now,fear,fear,0.9402
+460,I’m irritated by everything today,anger,anger,0.5979
+461,I’m scared of consequences recently,fear,fear,0.9133
+462,I’m angry at everything,anger,anger,0.8714
+463,Life feels heavy right now at the moment,sadness,sadness,0.6343
+464,I can’t control my anger recently,anger,anger,0.8216
+465,I feel angry about what happened recently,anger,anger,0.8738
+466,I feel mad about the situation recently,anger,anger,0.8852
+467,these days,,anger,0.2635
+468,today,,joy,0.2855
+469,Everything feels pointless recently,pessimism,sadness,0.5944
+470,I’m grateful for this support these days,love,love,0.7912
+471,I feel cheerful today,joy,joy,0.6645
+472,I feel worried and afraid today,fear,fear,0.8994
+473,I’m irritated by everything today recently,anger,anger,0.5875
+474,I feel hurt and disappointed lately,sadness,sadness,0.5987
+475,I feel stuck in a bad place,pessimism,sadness,0.6032
+476,I don’t feel like doing anything right now,sadness,sadness,0.1919
+477,I feel irritated constantly recently,anger,anger,0.7033
+478,Things are going great for me recently,joy,fear,0.3898
+479,I feel cheerful today,joy,joy,0.6645
+480,I feel excited and joyful at the moment,joy,joy,0.5277
+481,I feel understood lately,love,love,0.2174
+482,I feel overwhelmed and sad,sadness,sadness,0.7236
+483,I’m really frustrated right now,anger,anger,0.7115
+484,Things are going great for me today,joy,anticipation,0.4108
+485,I’m proud of myself at the moment,joy,joy,0.8899
+486,I don’t expect good outcomes,pessimism,optimism,0.3435
+487,I’m grateful for this support today,love,love,0.8357
+488,I feel delighted right now at the moment,joy,joy,0.8418
+489,I finally finished my project these days,joy,joy,0.7643
+490,I feel pessimistic about life these days,pessimism,joy,0.2633
+491,I feel angry inside at the moment,anger,anger,0.8625
+492,I feel safe and cared for recently,love,love,0.5875
+493,I feel nervous about tomorrow today,fear,fear,0.9135
+494,I feel comforted lately,love,love,0.5397
+495,I feel discouraged about everything today,pessimism,sadness,0.643
+496,I feel joyful and relaxed these days,joy,joy,0.8427
+497,I feel frustrated and angry at the moment,anger,anger,0.7951
+498,I feel irritated and upset these days,anger,anger,0.6567
+499,I feel angry inside,anger,anger,0.8688
+500,I feel drained emotionally right now,sadness,sadness,0.7711
